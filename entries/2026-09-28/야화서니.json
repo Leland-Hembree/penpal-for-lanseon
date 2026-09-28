@@ -13,7 +13,15 @@
     "item-1790602769683": true
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "3be3e6db-e426-49ad-beb4-6952b4e31517",
+      "author": "릴런드-헤브리",
+      "text": "체크리스트가 뭡니까?",
+      "image": null,
+      "createdAt": "2026-09-28T13:40:14.010Z"
+    }
+  ],
   "createdAt": "2026-09-28T13:39:35.867Z",
-  "updatedAt": "2026-09-28T13:39:38.852Z"
+  "updatedAt": "2026-09-28T13:40:14.010Z"
 }
