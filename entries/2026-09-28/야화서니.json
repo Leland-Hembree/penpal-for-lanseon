@@ -11,7 +11,15 @@
     "서류-작업": true
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "1d9e74ed-58fe-4bf6-8e7e-7ea328581a8d",
+      "author": "릴런드-헤브리",
+      "text": "무탈한 하루를 보내셨군요.",
+      "image": null,
+      "createdAt": "2026-09-28T13:44:10.832Z"
+    }
+  ],
   "createdAt": "2026-09-28T13:43:18.079Z",
-  "updatedAt": "2026-09-28T13:43:19.437Z"
+  "updatedAt": "2026-09-28T13:44:10.832Z"
 }
